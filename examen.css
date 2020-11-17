@@ -1,0 +1,18 @@
+h1{
+	text-align: center;
+	color: orange;
+}
+img{
+	width: 120px;
+	height: 120px;
+}
+.t{
+	background-color: orange;
+	text-align:center;
+	color: white
+}
+.im{
+	width: 120px;
+	height: 120px;
+	float: center
+}
